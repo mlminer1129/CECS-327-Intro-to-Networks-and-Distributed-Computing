@@ -2,13 +2,7 @@
 Peer to Peer file sharing program
 
 @authors
-Salvador Gallardo
-010098489
 
-John Minor
-003047679
-
-CECS 327 Summer 2020
 '''
 
 #import needed libraries 
